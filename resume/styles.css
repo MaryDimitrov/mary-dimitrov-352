@@ -7,11 +7,12 @@ color: #444;
 font-weight: 400;
 }
 /*style of my title*/
-strong{
-  text-transform: uppercase;
-  font-size: 1.5em;
-  color: #33485e;
-}
+#title{weight:600;
+text-align: center;
+margin: 20px 0 0 0;
+text-transform: uppercase;
+font-size: 1.5em;
+color: #33485e;}
 
 /*style of my name*/
 #name{font-size: 3em;
@@ -38,24 +39,40 @@ strong{
 
 }
 /*style of job titles */
-h3{
+.jobtitle{
   font-weight:600;
   font-size: 1.5em;
 }
 /*style of places of employment */
-h4{font-weight:400;
-  font-size:1.5em;
+.organization{font-weight:400;
+  font-size:1.25em;
 }
 /* style of dates*/
-h5{font-weight: 400;
+.date{font-weight: 400;
   font-size:1em;
   font-style: italic;
+  margin: 2 0 0 0;
 }
+
+.description{margin:10px 0 10px 0}
 /*style of skills*/
-#Skills{ font-size: 1em;
+#do{margin: 5px 0 0 0 }
+
+#container{width: 100%;
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-bottom: 50px;
 }
-/*style of education info */
-#Education{ font-size: 1em;
-}
+
+
+/*style of degrees*/
+#degree{margin: 5px 0 0 0;}
+
 /* style of contact links*/
-#contact{font-size: 1em}
+.menu{
+font-size: 1em;
+margin: 0px;
+padding:0px;
+text-align:center;}
+
+.menu li{display: inline;}
