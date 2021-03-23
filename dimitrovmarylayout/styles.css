@@ -1,0 +1,42 @@
+#content{
+  margin: 0 auto;
+  width: 900px;
+  font: Georgia, serif, 13 px;
+}
+
+blockquote {
+font: 16px/24px normal helvetica, sans-serif;
+font-style: italic;
+margin-top: 15px;
+margin-bottom: 15px;
+color: red;
+margin-left: 50px;
+padding-left: 15px;
+border-left: 4px solid #ccc;
+font-size: 1.4em
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+h1 {font-size: 3em;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+font-size: 14px;
+font-style: italic;
+}
+
+#caption{ color: grey; font-size: 1em;
+
+}
+
+.class{
+  text-align:center;
+
+}
+}
