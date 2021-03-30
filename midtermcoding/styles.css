@@ -1,0 +1,65 @@
+body{font-family: Helvetica, Arial, sans-serif;
+font-size: 12px;
+padding-left: 15%;
+padding-right: 15%;
+}
+
+p{
+  padding:5px;
+  line-height: 20px;
+}
+
+#headline{font-family:'Oswald', sans-serif;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: inherit;
+    text-transform: auto;
+    font-size: 35px;
+    line-height: 1.1em;
+    margin: 0 0 20px 0;
+  padding-top: 50px}
+
+    h2{font-family:'Oswald', sans-serif;
+  font-size: 25px;
+}
+
+h3{font-family:'Oswald', sans-serif;
+font-size: 25px;
+}
+
+#teaser{font-family: 'Lato', sans-serif;
+font-size:20px;
+}
+
+#context{margin: 50 50 50 50
+}
+
+#byline{font-family: 'Montserrat', sans-serif;
+font-size:10px;
+text-transform: capitalize;}
+
+.picture {border: 0;
+  width: 100%;
+display:block;
+max-width: 100%
+margin: 0 auto}
+
+#read{
+  background-color: #D0D0D0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+blockquote{font-family: 'Lato', sans-serif;
+font-size: 25px;
+font-style: italic;
+}
+
+ul{
+margin:20px;
+padding:10px;
+line-height: 20px;
+}
+
+#caption{color: grey;
+font-size:10px}
+/* change the font size if it is too big */
