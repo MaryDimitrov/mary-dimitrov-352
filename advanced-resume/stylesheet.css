@@ -18,6 +18,12 @@ margin-bottom: 20px}
   text-align: center;
 }
 
+#copyright{
+  text-align:center;
+  background-color: grey;
+  font-style: italic;
+}
+
 p {
   line-height: 20px;   /* within paragraph */
   margin-bottom: 20px; /* between paragraphs */
