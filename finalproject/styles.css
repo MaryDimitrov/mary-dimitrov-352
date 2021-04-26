@@ -16,10 +16,7 @@ padding-right: 15%;
 
 }
 
-#inline{
-  display: inline-block;
-}
-
-.col{
-  display: inline-block;
+div{
+    padding:5px;
+    line-height: 20px;
 }
