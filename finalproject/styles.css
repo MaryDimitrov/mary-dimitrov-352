@@ -5,7 +5,8 @@ body{font-family: 'Playfair Display', serif;
 
 #bylines{
   font-family: 'Open Sans', sans-serif;
-color: #16A1CD;}
+color: #16A1CD;
+line-height: 1px;}
 
 
 #block{
@@ -50,6 +51,10 @@ padding-right: 15%;
 
 #center{
   text-align: center;
+  display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 350px;
 }
 
 #info{
@@ -87,8 +92,21 @@ padding-right: 15%;
    margin-right: auto;
 }
 
+#bpic{
+  margin-left: 87px;
+}
+
+.figcaption{margin-top: 0px}
+
+
+}
+
 #topper{
-  background-color: #F8F8F8;
+    background-color: #F8F8F8;
+}
+
+#bigtop{
+    background-color: #F8F8F8;
 }
 
 #NBC{
@@ -106,6 +124,14 @@ padding-right: 15%;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#walk{
+  margin-left:37px;
+}
+
+#blue{
+  margin-left: 75px;
 }
 
 #bluepic{
@@ -126,6 +152,10 @@ padding-right: 15%;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#slur{
+  margin-left:180px;
 }
 
 figcaption{color: grey;
