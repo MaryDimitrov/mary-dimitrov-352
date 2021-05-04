@@ -1,22 +1,142 @@
-body{font-family: 'Open Sans', sans-serif;
 
+
+body{font-family: 'Playfair Display', serif;
 }
 
-.h1{
-  font-family: 'Oswald', sans-serif;
-}
-
-.h2{
+#bylines{
   font-family: 'Open Sans', sans-serif;
+color: #16A1CD;}
+
+
+#block{
+  color: #16A1CD;
 }
 
-#main{font-size: 12px;
+#pic{
+  text-align: center;
+  align-content: center;
+  border: 0;
+    width: 100%;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+hr{
+        height: 1px;
+        background-color: #16A1CD;
+        border: none;
+    }
+
+#main{font-size: 16px;
 padding-left: 15%;
 padding-right: 15%;
-
 }
 
-div{
+.picture{
+  width:100%;
+}
+
+.row{
     padding:5px;
     line-height: 20px;
+}
+
+#dog{
+  text-align: center;
+}
+
+#play{
+  padding-top:70px;
+}
+
+#center{
+  text-align: center;
+}
+
+#info{
+  background-color: #F8F8F8;
+  padding: 20px;
+  margin: 20px;
+}
+
+#space{
+  padding-bottom: 20px
+}
+
+ blockquote{font-family: 'Oswald', sans-serif;
+ font-size: 25px;
+ font-style: italic;
+ display: block;
+  margin: 30px;
+ }
+
+ #copyright{
+   text-align:center;
+   background-color: #F8F8F8;
+   font-style: italic;
+   padding: 20px;
+   color: #16A1CD;
+ }
+
+ #bethpic {
+   border: 0;
+     width: 75%;
+   display:block;
+   max-width: 75%;
+   margin-top: 20px;
+   margin-left: auto;
+   margin-right: auto;
+}
+
+#topper{
+  background-color: #F8F8F8;
+}
+
+#NBC{
+  text-align: right;
+  padding-right: 10px;
+  padding-top: 0;
+  margin-top: 0;
+}
+
+#walkpic {
+  border: 0;
+    width: 90%;
+  display:block;
+  max-width: 90%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#bluepic{
+  border: 0;
+    width: 80%;
+  display:block;
+  max-width: 80%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#slurpic{
+  border: 0;
+    width: 50%;
+  display:block;
+  max-width: 50%;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figcaption{color: grey;
+  font-size:10px;
+}
+
+
+#cap{color: #F8F8F8;
+  font-family: 'Open Sans', sans-serif;
+  font-size:10px;
 }
